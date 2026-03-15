@@ -80,7 +80,7 @@ Docker containers run directly inside the EC2 instance.
 
 ### Demonstration Video
 
-[Watch the video demonstration]((https://youtu.be/H5Ctuj3xQnE))
+[Watch the video demonstration](https://youtu.be/H5Ctuj3xQnE)
 
 ## Repository Structure
 meu-projeto/
